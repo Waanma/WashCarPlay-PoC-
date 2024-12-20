@@ -1,0 +1,73 @@
+[
+  {
+    "StopSequence": 1,
+
+    "Name": "John Smith",
+
+    "Address": "107 Myrtlewood Point Rd, East Palatka, FL 32131",
+
+    "Geocode": {
+      "Latitude": 29.696829,
+
+      "Longitude": -81.579056
+    },
+
+    "Notes": "Garage code: 12121",
+
+    "StopType": "Pickup Request"
+  },
+
+  {
+    "StopSequence": 2,
+
+    "Name": "Jane Doe",
+
+    "Address": "119 Myrtlewood Point Rd, East Palatka, FL 32131",
+
+    "Geocode": {
+      "Latitude": 29.700261,
+
+      "Longitude": -81.581073
+    },
+
+    "Notes": "Leave on hook on side door by garage",
+
+    "StopType": "Delivery"
+  },
+
+  {
+    "StopSequence": 3,
+
+    "Name": "Robert Brown",
+
+    "Address": "298 County Rd 207A, East Palatka, FL 32131",
+
+    "Geocode": {
+      "Latitude": 29.691391,
+
+      "Longitude": -81.600202
+    },
+
+    "Notes": "Call upon arrival: 555-1234",
+
+    "StopType": "Pickup and Delivery"
+  },
+
+  {
+    "StopSequence": 4,
+
+    "Name": "Alice Green",
+
+    "Address": "233 County Rd 207A, East Palatka, FL 32131",
+
+    "Geocode": {
+      "Latitude": 29.688256,
+
+      "Longitude": -81.606984
+    },
+
+    "Notes": "Sales prospect, drop off brochure",
+
+    "StopType": "Sales Prospect"
+  }
+]
